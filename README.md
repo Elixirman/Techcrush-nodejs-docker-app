@@ -34,6 +34,7 @@ docker push YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0
 ```
 
 **Screenshot:** `screenshots/02-dockerhub-image.png`
+![Docker-hub](screenshots/02-dockerhub-image.png)
 
 ## Pulling and running
 
