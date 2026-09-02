@@ -20,7 +20,7 @@ npm start
 ## Building the Docker image
 
 ```bash
-docker build -t YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0 .
+docker build -t elixirman/nodejs-app:1.0 .
 ```
 
 **Screenshot:** `screenshots/01-docker-build.png`
@@ -30,7 +30,7 @@ docker build -t YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0 .
 
 ```bash
 docker login
-docker push YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0
+docker push elixirman/nodejs-app:1.0
 ```
 
 **Screenshot:** `screenshots/02-dockerhub-image.png`
@@ -39,8 +39,8 @@ docker push YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0
 ## Pulling and running
 
 ```bash
-docker pull YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0
-docker run -d -p 3000:3000 YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0
+docker pull elixirman/nodejs-app:1.0
+docker run -d -p 3000:3000 elixirman/nodejs-app:1.0
 docker ps
 ```
 
