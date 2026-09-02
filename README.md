@@ -45,7 +45,7 @@ docker ps
 ```
 
 **Screenshot:** `screenshots/03-docker-ps.png`
-
+![Docker-container](screenshots/03-docker-ps.png)
 ## Live application
 
 **Screenshot:** `screenshots/04-live-app.png`
