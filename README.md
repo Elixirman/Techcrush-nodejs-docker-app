@@ -24,6 +24,7 @@ docker build -t YOUR_DOCKERHUB_USERNAME/nodejs-app:1.0 .
 ```
 
 **Screenshot:** `screenshots/01-docker-build.png`
+[System Architecture Diagram](screenshots/01-docker-build.png)
 
 ## Pushing to Docker Hub
 
