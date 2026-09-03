@@ -1,6 +1,7 @@
 # Node.js Docker Deployment Demo
 
 A simple Node.js (Express) application built and deployed using GitHub, Linux, Docker, and Docker Hub.
+![Schema](screenshots/Schema.png)
 
 ## What the app does
 
