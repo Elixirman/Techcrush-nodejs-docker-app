@@ -50,4 +50,4 @@ docker ps
 ## Live application
 
 **Screenshot:** `screenshots/04-live-app.png`
-![Docker-app](screenshots/04-live-app.png)
+![Docker-app](screenshots/04-live-app2.png)
